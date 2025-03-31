@@ -16,7 +16,7 @@ OCGT_BF/
 │       ├── log_cycle.py      # Cycle topology experiments
 │       ├── log_er.py         # ER random graph experiments
 │       ├── log_star.py       # Star topology experiments
-│       ├── log_three.py      # Three-node topology experiments
+│       ├── log_three.py      # Three topologies experiments
 │       ├── data/             # Experiment data storage
 │       └── figs/             # Experiment figure storage
 ├── requirements.txt          # Project dependencies
